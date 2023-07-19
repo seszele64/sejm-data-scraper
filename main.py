@@ -10,7 +10,6 @@ from df import *
 from browser_manager import Browser
 from scraper import Scraper, ids
 from mp import MP, MP_Site
-from database import *
 from throttle import Throttle
 from paths import current_folder, data_folder, logs_folder
 
